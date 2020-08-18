@@ -488,7 +488,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.4
+        "zoomFactor": 0.49
       },
       "objectsGroups": [],
       "variables": [],
@@ -549,7 +549,7 @@
           "locked": false,
           "name": "titulo_jogo",
           "persistentUuid": "25b2a46b-ccda-4e10-97a3-1d70a11f478a",
-          "width": 673,
+          "width": 572,
           "x": 50,
           "y": 87,
           "zOrder": 10,
@@ -795,8 +795,8 @@
               "name": "SineMovement",
               "type": "SineMovement::SineMovement",
               "SineSpeed": 40,
-              "AmplitudeX": 30,
-              "AmplitudeY": 50,
+              "AmplitudeX": 20,
+              "AmplitudeY": 40,
               "InitialX": 0,
               "InitialY": 0,
               "SineProgress": 0
